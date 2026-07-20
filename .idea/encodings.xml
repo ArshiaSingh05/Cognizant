@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Week 1/1. JUnit_Basic Testing Exercises/Excercise 1/Excercise_1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 1/1. JUnit_Basic Testing Exercises/Excercise 1/Excercise_1/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 1/1. JUnit_Basic Testing Exercises/Excercise 2/Calculator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 1/1. JUnit_Basic Testing Exercises/Excercise 2/Calculator/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 1/1. JUnit_Basic Testing Exercises/Excercise 3/Excercise_3/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 1/1. JUnit_Basic Testing Exercises/Excercise 3/Excercise_3/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 1/1. JUnit_Basic Testing Exercises/Excercise 4/Excercise_4/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 1/1. JUnit_Basic Testing Exercises/Excercise 4/Excercise_4/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 1/2. JUnit_Advanced Testing exercices/Excercise 1/Excercise_1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 1/2. JUnit_Advanced Testing exercices/Excercise 1/Excercise_1/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 1/2. JUnit_Advanced Testing exercices/Excercise 2/Excercise_2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 1/2. JUnit_Advanced Testing exercices/Excercise 2/Excercise_2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 1/2. JUnit_Advanced Testing exercices/Excercise 3/Excercise_3/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 1/2. JUnit_Advanced Testing exercices/Excercise 3/Excercise_3/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 1/2. JUnit_Advanced Testing exercices/Excercise 4/Excercise_4/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 1/2. JUnit_Advanced Testing exercices/Excercise 4/Excercise_4/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 1/2. JUnit_Advanced Testing exercices/Excercise 5/Excercise_5/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 1/2. JUnit_Advanced Testing exercices/Excercise 5/Excercise_5/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 1/3. Mockito exercises/Excercise 1/Excercise_1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 1/3. Mockito exercises/Excercise 1/Excercise_1/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 1/3. Mockito exercises/Excercise 2/Excercise_2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 1/3. Mockito exercises/Excercise 2/Excercise_2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 1/3. Mockito exercises/Excercise 3/Excercise_3/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 1/3. Mockito exercises/Excercise 3/Excercise_3/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 1/3. Mockito exercises/Excercise 4/Excercise_4/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 1/3. Mockito exercises/Excercise 4/Excercise_4/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 1/3. Mockito exercises/Excercise 5/Excercise_5/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 1/3. Mockito exercises/Excercise 5/Excercise_5/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 1/3. Mockito exercises/Excercise 6/Excercise_6/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 1/3. Mockito exercises/Excercise 6/Excercise_6/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 1/3. Mockito exercises/Excercise 7/Excercise_7/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 1/3. Mockito exercises/Excercise 7/Excercise_7/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 1/3. Mockito_Advanced exercises/Excercise 1/Excercise_1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 1/3. Mockito_Advanced exercises/Excercise 1/Excercise_1/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 1/3. Mockito_Advanced exercises/Excercise 2/Excercise_2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 1/3. Mockito_Advanced exercises/Excercise 2/Excercise_2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 1/3. Mockito_Advanced exercises/Excercise 3/Excercise_3/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 1/3. Mockito_Advanced exercises/Excercise 3/Excercise_3/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 1/3. Mockito_Advanced exercises/Excercise 4/Excercise_4/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 1/3. Mockito_Advanced exercises/Excercise 4/Excercise_4/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 1/3. Mockito_Advanced exercises/Excercise 5/Excercise_5/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 1/3. Mockito_Advanced exercises/Excercise 5/Excercise_5/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 1/4. JUnit_Spring Test exercises/Excercise 1/Excercise_1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 1/4. JUnit_Spring Test exercises/Excercise 2/Excercise_2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 1/4. JUnit_Spring Test exercises/Excercise 3/Excercise_3/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 1/4. JUnit_Spring Test exercises/Excercise 4/Excercise_4/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 1/4. JUnit_Spring Test exercises/Excercise 5/Excercise_5/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 1/4. JUnit_Spring Test exercises/Excercise 6/Excercise_6/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 1/4. JUnit_Spring Test exercises/Excercise 7/Excercise_7/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 1/4. JUnit_Spring Test exercises/Excercise 8/Excercise_8/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 1/4. JUnit_Spring Test exercises/Excercise 9/Excercise_9/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 1/5. Mockito_Mock dependencies exercises/Excercise 1/Excercise_1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 1/5. Mockito_Mock dependencies exercises/Excercise 2/Excercise_2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 1/5. Mockito_Mock dependencies exercises/Excercise 3/Excercise_3/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 1/6. SL4J Logging exercises/Excercise 1/Excercise_1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 1/6. SL4J Logging exercises/Excercise 1/Excercise_1/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 1/6. SL4J Logging exercises/Excercise 2/Excercise_2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 1/6. SL4J Logging exercises/Excercise 2/Excercise_2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 1/6. SL4J Logging exercises/Excercise 3/Excercise_3/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 1/6. SL4J Logging exercises/Excercise 3/Excercise_3/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 1/Algorithms_DataStructures/Excercise 1/InventoryManagementSystem/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 1/Algorithms_DataStructures/Excercise 1/InventoryManagementSystem/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 1/Algorithms_DataStructures/Excercise 2/EcommercePlatformSearch/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 1/Algorithms_DataStructures/Excercise 2/EcommercePlatformSearch/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 1/Algorithms_DataStructures/Excercise 3/SortingCustomerOrders/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 1/Algorithms_DataStructures/Excercise 3/SortingCustomerOrders/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 1/Algorithms_DataStructures/Excercise 4/EmployeeManagementSystem/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 1/Algorithms_DataStructures/Excercise 4/EmployeeManagementSystem/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 1/Algorithms_DataStructures/Excercise 5/TaskManagementSystem/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 1/Algorithms_DataStructures/Excercise 5/TaskManagementSystem/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 1/Algorithms_DataStructures/Excercise 6/LibraryManagementSystem/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 1/Algorithms_DataStructures/Excercise 6/LibraryManagementSystem/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 1/Algorithms_DataStructures/Excercise 7/FinancialForecasting/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 1/Algorithms_DataStructures/Excercise 7/FinancialForecasting/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 1/Design Patterns and Principles/Excercise 1/SingletonPatternExample/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 1/Design Patterns and Principles/Excercise 1/SingletonPatternExample/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 1/Design Patterns and Principles/Excercise 10/MVCPatternExample/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 1/Design Patterns and Principles/Excercise 10/MVCPatternExample/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 1/Design Patterns and Principles/Excercise 11/DependencyInjectionExample/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 1/Design Patterns and Principles/Excercise 11/DependencyInjectionExample/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 1/Design Patterns and Principles/Excercise 2/FactoryMethodPatternExample/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 1/Design Patterns and Principles/Excercise 2/FactoryMethodPatternExample/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 1/Design Patterns and Principles/Excercise 3/BuilderPatternExample/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 1/Design Patterns and Principles/Excercise 3/BuilderPatternExample/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 1/Design Patterns and Principles/Excercise 4/AdapterPatternExample/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 1/Design Patterns and Principles/Excercise 4/AdapterPatternExample/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 1/Design Patterns and Principles/Excercise 5/DecoratorPatternExample/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 1/Design Patterns and Principles/Excercise 5/DecoratorPatternExample/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 1/Design Patterns and Principles/Excercise 6/ProxyPatternExample/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 1/Design Patterns and Principles/Excercise 6/ProxyPatternExample/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 1/Design Patterns and Principles/Excercise 7/ObserverPatternExample/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 1/Design Patterns and Principles/Excercise 7/ObserverPatternExample/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 1/Design Patterns and Principles/Excercise 8/StrategyPatternExample/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 1/Design Patterns and Principles/Excercise 8/StrategyPatternExample/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 1/Design Patterns and Principles/Excercise 9/CommandPatternExample/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 1/Design Patterns and Principles/Excercise 9/CommandPatternExample/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 2/Spring Core and Maven/Excercise 1/LibraryManagement/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 2/Spring Core and Maven/Excercise 2/LibraryManagement/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 2/Spring Core and Maven/Excercise 3/LibraryManagement/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 2/Spring Core and Maven/Excercise 4/LibraryManagement/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 2/Spring Core and Maven/Excercise 5/LibraryManagement/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 2/Spring Core and Maven/Excercise 6/LibraryManagement/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 2/Spring Core and Maven/Excercise 7/LibraryManagement/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 2/Spring Core and Maven/Excercise 8/LibraryManagement/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 2/Spring Core and Maven/Excercise 9/LibraryManagement/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 2/Spring Data JPA with Hibernate/1. spring-data-jpa-handson/Excercise 1/orm-learn/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 2/Spring Data JPA with Hibernate/1. spring-data-jpa-handson/Excercise 5/orm-learn/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 2/Spring Data JPA with Hibernate/1. spring-data-jpa-handson/Excercise 6/orm-learn/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 2/Spring Data JPA with Hibernate/1. spring-data-jpa-handson/Excercise 7/orm-learn/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 2/Spring Data JPA with Hibernate/1. spring-data-jpa-handson/Excercise 8/orm-learn/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 2/Spring Data JPA with Hibernate/1. spring-data-jpa-handson/Excercise 9/orm-learn/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 2/Spring Data JPA with Hibernate/2. spring-data-jpa-handson/Excercise 1/orm-learn/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 2/Spring Data JPA with Hibernate/2. spring-data-jpa-handson/Excercise 2/orm-Learn/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Week 2/Spring Data JPA with Hibernate/2. spring-data-jpa-handson/Excercise 3/ormLearn/src/main/java" charset="UTF-8" />
+  </component>
+</project>

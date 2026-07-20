@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Week 1/3. Mockito exercises/Excercise 1/Excercise_1/pom.xml" />
+        <option value="$PROJECT_DIR$/Week 1/3. Mockito exercises/Excercise 2/Excercise_2/pom.xml" />
+        <option value="$PROJECT_DIR$/Week 1/3. Mockito exercises/Excercise 3/Excercise_3/pom.xml" />
+        <option value="$PROJECT_DIR$/Week 1/3. Mockito exercises/Excercise 4/Excercise_4/pom.xml" />
+        <option value="$PROJECT_DIR$/Week 1/3. Mockito exercises/Excercise 5/Excercise_5/pom.xml" />
+        <option value="$PROJECT_DIR$/Week 1/3. Mockito exercises/Excercise 6/Excercise_6/pom.xml" />
+        <option value="$PROJECT_DIR$/Week 1/3. Mockito exercises/Excercise 7/Excercise_7/pom.xml" />
+        <option value="$PROJECT_DIR$/Week 1/6. SL4J Logging exercises/Excercise 1/Excercise_1/pom.xml" />
+        <option value="$PROJECT_DIR$/Week 1/6. SL4J Logging exercises/Excercise 2/Excercise_2/pom.xml" />
+        <option value="$PROJECT_DIR$/Week 1/6. SL4J Logging exercises/Excercise 3/Excercise_3/pom.xml" />
+        <option value="$PROJECT_DIR$/Week 1/Algorithms_DataStructures/Excercise 1/InventoryManagementSystem/pom.xml" />
+        <option value="$PROJECT_DIR$/Week 1/Algorithms_DataStructures/Excercise 2/EcommercePlatformSearch/pom.xml" />
+        <option value="$PROJECT_DIR$/Week 1/Algorithms_DataStructures/Excercise 3/SortingCustomerOrders/pom.xml" />
+        <option value="$PROJECT_DIR$/Week 1/Algorithms_DataStructures/Excercise 4/EmployeeManagementSystem/pom.xml" />
+        <option value="$PROJECT_DIR$/Week 1/Algorithms_DataStructures/Excercise 5/TaskManagementSystem/pom.xml" />
+        <option value="$PROJECT_DIR$/Week 1/Algorithms_DataStructures/Excercise 6/LibraryManagementSystem/pom.xml" />
+        <option value="$PROJECT_DIR$/Week 1/Algorithms_DataStructures/Excercise 7/FinancialForecasting/pom.xml" />
+        <option value="$PROJECT_DIR$/Week 1/3. Mockito_Advanced exercises/Excercise 1/Excercise_1/pom.xml" />
+        <option value="$PROJECT_DIR$/Week 1/3. Mockito_Advanced exercises/Excercise 2/Excercise_2/pom.xml" />
+        <option value="$PROJECT_DIR$/Week 1/3. Mockito_Advanced exercises/Excercise 3/Excercise_3/pom.xml" />
+        <option value="$PROJECT_DIR$/Week 1/3. Mockito_Advanced exercises/Excercise 4/Excercise_4/pom.xml" />
+        <option value="$PROJECT_DIR$/Week 1/3. Mockito_Advanced exercises/Excercise 5/Excercise_5/pom.xml" />
+        <option value="$PROJECT_DIR$/Week 1/4. JUnit_Spring Test exercises/Excercise 1/Excercise_1/pom.xml" />
+        <option value="$PROJECT_DIR$/Week 1/4. JUnit_Spring Test exercises/Excercise 2/Excercise_2/pom.xml" />
+        <option value="$PROJECT_DIR$/Week 1/4. JUnit_Spring Test exercises/Excercise 3/Excercise_3/pom.xml" />
+        <option value="$PROJECT_DIR$/Week 1/4. JUnit_Spring Test exercises/Excercise 4/Excercise_4/pom.xml" />
+        <option value="$PROJECT_DIR$/Week 1/4. JUnit_Spring Test exercises/Excercise 5/Excercise_5/pom.xml" />
+        <option value="$PROJECT_DIR$/Week 1/4. JUnit_Spring Test exercises/Excercise 6/Excercise_6/pom.xml" />
+        <option value="$PROJECT_DIR$/Week 1/4. JUnit_Spring Test exercises/Excercise 7/Excercise_7/pom.xml" />
+        <option value="$PROJECT_DIR$/Week 1/4. JUnit_Spring Test exercises/Excercise 8/Excercise_8/pom.xml" />
+        <option value="$PROJECT_DIR$/Week 1/4. JUnit_Spring Test exercises/Excercise 9/Excercise_9/pom.xml" />
+        <option value="$PROJECT_DIR$/Week 1/Design Patterns and Principles/Excercise 1/SingletonPatternExample/pom.xml" />
+        <option value="$PROJECT_DIR$/Week 1/Design Patterns and Principles/Excercise 2/FactoryMethodPatternExample/pom.xml" />
+        <option value="$PROJECT_DIR$/Week 1/Design Patterns and Principles/Excercise 3/BuilderPatternExample/pom.xml" />
+        <option value="$PROJECT_DIR$/Week 1/Design Patterns and Principles/Excercise 4/AdapterPatternExample/pom.xml" />
+        <option value="$PROJECT_DIR$/Week 1/Design Patterns and Principles/Excercise 5/DecoratorPatternExample/pom.xml" />
+        <option value="$PROJECT_DIR$/Week 1/Design Patterns and Principles/Excercise 6/ProxyPatternExample/pom.xml" />
+        <option value="$PROJECT_DIR$/Week 1/Design Patterns and Principles/Excercise 7/ObserverPatternExample/pom.xml" />
+        <option value="$PROJECT_DIR$/Week 1/Design Patterns and Principles/Excercise 8/StrategyPatternExample/pom.xml" />
+        <option value="$PROJECT_DIR$/Week 1/Design Patterns and Principles/Excercise 9/CommandPatternExample/pom.xml" />
+        <option value="$PROJECT_DIR$/Week 1/Design Patterns and Principles/Excercise 10/MVCPatternExample/pom.xml" />
+        <option value="$PROJECT_DIR$/Week 1/Design Patterns and Principles/Excercise 11/DependencyInjectionExample/pom.xml" />
+        <option value="$PROJECT_DIR$/Week 1/1. JUnit_Basic Testing Exercises/Excercise 1/Excercise_1/pom.xml" />
+        <option value="$PROJECT_DIR$/Week 1/1. JUnit_Basic Testing Exercises/Excercise 2/Calculator/pom.xml" />
+        <option value="$PROJECT_DIR$/Week 1/1. JUnit_Basic Testing Exercises/Excercise 3/Excercise_3/pom.xml" />
+        <option value="$PROJECT_DIR$/Week 1/1. JUnit_Basic Testing Exercises/Excercise 4/Excercise_4/pom.xml" />
+        <option value="$PROJECT_DIR$/Week 1/2. JUnit_Advanced Testing exercices/Excercise 1/Excercise_1/pom.xml" />
+        <option value="$PROJECT_DIR$/Week 1/2. JUnit_Advanced Testing exercices/Excercise 2/Excercise_2/pom.xml" />
+        <option value="$PROJECT_DIR$/Week 1/2. JUnit_Advanced Testing exercices/Excercise 3/Excercise_3/pom.xml" />
+        <option value="$PROJECT_DIR$/Week 1/2. JUnit_Advanced Testing exercices/Excercise 4/Excercise_4/pom.xml" />
+        <option value="$PROJECT_DIR$/Week 1/2. JUnit_Advanced Testing exercices/Excercise 5/Excercise_5/pom.xml" />
+        <option value="$PROJECT_DIR$/Week 1/5. Mockito_Mock dependencies exercises/Excercise 1/Excercise_1/pom.xml" />
+        <option value="$PROJECT_DIR$/Week 1/5. Mockito_Mock dependencies exercises/Excercise 2/Excercise_2/pom.xml" />
+        <option value="$PROJECT_DIR$/Week 1/5. Mockito_Mock dependencies exercises/Excercise 3/Excercise_3/pom.xml" />
+        <option value="$PROJECT_DIR$/Week 2/Spring Core and Maven/Excercise 1/LibraryManagement/pom.xml" />
+        <option value="$PROJECT_DIR$/Week 2/Spring Core and Maven/Excercise 2/LibraryManagement/pom.xml" />
+        <option value="$PROJECT_DIR$/Week 2/Spring Core and Maven/Excercise 3/LibraryManagement/pom.xml" />
+        <option value="$PROJECT_DIR$/Week 2/Spring Core and Maven/Excercise 4/LibraryManagement/pom.xml" />
+        <option value="$PROJECT_DIR$/Week 2/Spring Core and Maven/Excercise 5/LibraryManagement/pom.xml" />
+        <option value="$PROJECT_DIR$/Week 2/Spring Core and Maven/Excercise 6/LibraryManagement/pom.xml" />
+        <option value="$PROJECT_DIR$/Week 2/Spring Core and Maven/Excercise 7/LibraryManagement/pom.xml" />
+        <option value="$PROJECT_DIR$/Week 2/Spring Core and Maven/Excercise 8/LibraryManagement/pom.xml" />
+        <option value="$PROJECT_DIR$/Week 2/Spring Core and Maven/Excercise 9/LibraryManagement/pom.xml" />
+        <option value="$PROJECT_DIR$/Week 2/Spring Data JPA with Hibernate/1. spring-data-jpa-handson/Excercise 1/orm-learn/pom.xml" />
+        <option value="$PROJECT_DIR$/Week 2/Spring Data JPA with Hibernate/1. spring-data-jpa-handson/Excercise 5/orm-learn/pom.xml" />
+        <option value="$PROJECT_DIR$/Week 2/Spring Data JPA with Hibernate/1. spring-data-jpa-handson/Excercise 6/orm-learn/pom.xml" />
+        <option value="$PROJECT_DIR$/Week 2/Spring Data JPA with Hibernate/1. spring-data-jpa-handson/Excercise 7/orm-learn/pom.xml" />
+        <option value="$PROJECT_DIR$/Week 2/Spring Data JPA with Hibernate/1. spring-data-jpa-handson/Excercise 8/orm-learn/pom.xml" />
+        <option value="$PROJECT_DIR$/Week 2/Spring Data JPA with Hibernate/1. spring-data-jpa-handson/Excercise 9/orm-learn/pom.xml" />
+        <option value="$PROJECT_DIR$/Week 2/Spring Data JPA with Hibernate/2. spring-data-jpa-handson/Excercise 1/orm-learn/pom.xml" />
+        <option value="$PROJECT_DIR$/Week 2/Spring Data JPA with Hibernate/2. spring-data-jpa-handson/Excercise 2/orm-Learn/pom.xml" />
+        <option value="$PROJECT_DIR$/Week 2/Spring Data JPA with Hibernate/2. spring-data-jpa-handson/Excercise 3/ormLearn/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="21" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

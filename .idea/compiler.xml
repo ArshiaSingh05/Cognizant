@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Excercise_1 (2)" />
+        <module name="BuilderPatternExample" />
+        <module name="Excercise_1 (6)" />
+        <module name="Excercise_3 (3)" />
+        <module name="CommandPatternExample" />
+        <module name="LibraryManagementSystem" />
+        <module name="orm-Learn (1) (org.example)" />
+        <module name="orm-learn (1)" />
+        <module name="EcommercePlatformSearch" />
+        <module name="Excercise_2 (2)" />
+        <module name="Excercise_1" />
+        <module name="Excercise_5 (3)" />
+        <module name="Excercise_4" />
+        <module name="Excercise_4 (3)" />
+        <module name="Excercise_5" />
+        <module name="AdapterPatternExample" />
+        <module name="Excercise_2" />
+        <module name="Excercise_3" />
+        <module name="LibraryManagement (5)" />
+        <module name="Excercise_8" />
+        <module name="EmployeeManagementSystem" />
+        <module name="Excercise_9" />
+        <module name="Excercise_6" />
+        <module name="Excercise_7" />
+        <module name="LibraryManagement (1)" />
+        <module name="Excercise_6 (1)" />
+        <module name="TaskManagementSystem" />
+        <module name="Excercise_1 (3)" />
+        <module name="Excercise_3 (6)" />
+        <module name="Excercise_3 (2)" />
+        <module name="orm-learn (2)" />
+        <module name="SortingCustomerOrders" />
+        <module name="ProxyPatternExample" />
+        <module name="Excercise_2 (3)" />
+        <module name="orm-learn (3)" />
+        <module name="Excercise_5 (2)" />
+        <module name="Excercise_7 (1)" />
+        <module name="LibraryManagement (6)" />
+        <module name="Excercise_4 (2)" />
+        <module name="ObserverPatternExample" />
+        <module name="DependencyInjectionExample" />
+        <module name="LibraryManagement (2)" />
+        <module name="orm-learn (1) (org.example)" />
+        <module name="MVCPatternExample" />
+        <module name="Excercise_1 (4)" />
+        <module name="orm-learn" />
+        <module name="Excercise_3 (5)" />
+        <module name="Excercise_3 (1)" />
+        <module name="FinancialForecasting" />
+        <module name="DecoratorPatternExample" />
+        <module name="Excercise_2 (4)" />
+        <module name="orm-learn (4)" />
+        <module name="Excercise_5 (1)" />
+        <module name="Calculator" />
+        <module name="FactoryMethodPatternExample" />
+        <module name="LibraryManagement" />
+        <module name="LibraryManagement (7)" />
+        <module name="Excercise_4 (1)" />
+        <module name="StrategyPatternExample" />
+        <module name="LibraryManagement (3)" />
+        <module name="SingletonPatternExample" />
+        <module name="Excercise_1 (1)" />
+        <module name="Excercise_3 (4)" />
+        <module name="Excercise_1 (5)" />
+        <module name="InventoryManagementSystem" />
+        <module name="Excercise_2 (5)" />
+        <module name="orm-learn (5)" />
+        <module name="LibraryManagement (8)" />
+        <module name="Excercise_4 (4)" />
+        <module name="LibraryManagement (4)" />
+        <module name="Excercise_2 (1)" />
+        <module name="ormLearn" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Excercise_1 (3)" options="-parameters" />
+      <module name="Excercise_1 (6)" options="-parameters" />
+      <module name="Excercise_2 (3)" options="-parameters" />
+      <module name="Excercise_2 (5)" options="-parameters" />
+      <module name="Excercise_3 (3)" options="-parameters" />
+      <module name="Excercise_3 (6)" options="-parameters" />
+      <module name="Excercise_4 (2)" options="-parameters" />
+      <module name="Excercise_5 (2)" options="-parameters" />
+      <module name="Excercise_6 (1)" options="-parameters" />
+      <module name="Excercise_7 (1)" options="-parameters" />
+      <module name="Excercise_8" options="-parameters" />
+      <module name="Excercise_9" options="-parameters" />
+      <module name="LibraryManagement" options="-parameters" />
+      <module name="LibraryManagement (1)" options="-parameters" />
+      <module name="LibraryManagement (2)" options="-parameters" />
+      <module name="LibraryManagement (3)" options="-parameters" />
+      <module name="LibraryManagement (4)" options="-parameters" />
+      <module name="LibraryManagement (5)" options="-parameters" />
+      <module name="LibraryManagement (6)" options="-parameters" />
+      <module name="LibraryManagement (7)" options="-parameters" />
+      <module name="LibraryManagement (8)" options="-parameters" />
+      <module name="orm-Learn (1) (org.example)" options="-parameters" />
+      <module name="orm-learn" options="-parameters" />
+      <module name="orm-learn (1)" options="-parameters" />
+      <module name="orm-learn (1) (org.example)" options="-parameters" />
+      <module name="orm-learn (2)" options="-parameters" />
+      <module name="orm-learn (3)" options="-parameters" />
+      <module name="orm-learn (4)" options="-parameters" />
+      <module name="orm-learn (5)" options="-parameters" />
+      <module name="ormLearn" options="-parameters" />
+    </option>
+  </component>
+</project>

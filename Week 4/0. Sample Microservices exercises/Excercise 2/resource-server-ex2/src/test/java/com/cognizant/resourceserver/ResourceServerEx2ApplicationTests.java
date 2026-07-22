@@ -1,0 +1,13 @@
+package com.cognizant.resourceserver;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class ResourceServerEx2ApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}

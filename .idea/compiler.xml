@@ -12,7 +12,6 @@
         <module name="Excercise_3 (3)" />
         <module name="CommandPatternExample" />
         <module name="LibraryManagementSystem" />
-        <module name="orm-Learn (1) (org.example)" />
         <module name="orm-learn (1)" />
         <module name="EcommercePlatformSearch" />
         <module name="Excercise_2 (2)" />
@@ -80,6 +79,9 @@
         <module name="ormLearn" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="orm-Learn (1) (org.example)" target="21" />
+    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">

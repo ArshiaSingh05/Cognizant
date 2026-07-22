@@ -1,0 +1,22 @@
+package com.cognizant.springlearn.controller;
+
+import com.cognizant.springlearn.model.Country;
+import org.springframework.web.bind.annotation.*;
+
+import java.util.Arrays;
+import java.util.List;
+
+@RestController
+public class CountryController {
+
+    @GetMapping("/countries")
+    public List<Country> getCountries() {
+
+        return Arrays.asList(
+                new Country("US", "United States"),
+                new Country("DE", "Germany"),
+                new Country("IN", "India"),
+                new Country("JP", "Japan")
+        );
+    }
+}

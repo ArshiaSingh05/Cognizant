@@ -1,16 +1,12 @@
-package com.cognizant.gateway;
+package com.cognizant.apigateway;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class GatewayEx1Application {
+public class ApiGatewayApplication {
 
 	public static void main(String[] args) {
-
-		SpringApplication.run(
-				GatewayEx1Application.class,
-				args
-		);
+		SpringApplication.run(ApiGatewayApplication.class, args);
 	}
 }

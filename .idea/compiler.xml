@@ -81,6 +81,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="orm-Learn (1) (org.example)" target="21" />
+      <module name="orm-learn (1) (org.example)" target="21" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
